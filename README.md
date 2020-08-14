@@ -1,4 +1,4 @@
-##React/Exercise/lifecycle-methods/deck-of-cards
+## React/Exercise/lifecycle-methods/deck-of-cards
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
